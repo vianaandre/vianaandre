@@ -4,15 +4,15 @@
 ### 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
-- 📚 Estudando react 
+- 📚 Estudando ReactJS
 
-- 💬 Me pergunte sobre Javascript, HTML e CSS 
+- 💬 Pergunte-me sobre JavaScript, HTML, CSS 
 
 - 📫 Como **entrar** em contato comigo **andredapperviana@gamil.com**
 
 - 🛠 A procura da primeira oportunidade 
 
-- 🎧 <a href="https://open.spotify.com/playlist/6iRylA8BkuzqsBRrDApGjO?si=1636202191604245">Playlist no spotify</a>
+- 🎧 <a href="https://open.spotify.com/playlist/6iRylA8BkuzqsBRrDApGjO?si=1636202191604245">Playlist do code master</a>
 
 <hr/>
 
