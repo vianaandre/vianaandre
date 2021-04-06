@@ -1,4 +1,4 @@
-<h1 align="center">Hello dev e mundo 👋</h1>
+<h1 align="center">Hello 👋👋</h1>
 <h3 align="center">Um estudante que está começando a caminhada de um desenvolvedor de sucesso  🚀🚀 </h3>
 
 ### 👦🏻  Sobre...
