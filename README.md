@@ -1,7 +1,7 @@
-<h1 align="center">Hello 👋👋</h1>
-<h3 align="center">Um estudante que está começando a caminhada de um desenvolvedor de sucesso  🚀🚀 </h3>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
+<h3 align="center">Um estudante chamado André que está procurando a primeira oportunidade no mundo do desenvolvimento front-end 🚀 </h3>
 
-### 👦🏻  Sobre...
+## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
 - 📚 Estudando ReactJS
@@ -14,11 +14,14 @@
 
 - 🎧 <a href="https://open.spotify.com/playlist/6iRylA8BkuzqsBRrDApGjO?si=1636202191604245">Playlist do code master</a>
 
-<hr/>
 
-### ⛏ Cases que utilizo atualmente 
+## 🛠 Ferramentas que utilizo atualmente 
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=whit">
 
 <hr/>
 
