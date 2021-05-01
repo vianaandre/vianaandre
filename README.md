@@ -1,5 +1,5 @@
 <h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
-<h3 align="center">Um estudante chamado André que está procurando a primeira oportunidade no mundo do desenvolvimento front-end 🚀 </h3>
+<h3 align="center">Em constante Evolução🚀 </h3>
 
 <hr />
 
