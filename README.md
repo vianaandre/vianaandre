@@ -1,4 +1,4 @@
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
 <h3 align="center">Em constante Evolução🚀 </h3>
 
 <hr />
