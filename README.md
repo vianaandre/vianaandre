@@ -1,15 +1,7 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
 <h3 align="center">Em constante Evolução🚀 </h3>
 
-<hr />
-
-<div>
-  <a href="https://github.com/vianaandre" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianaandre&show_icons=true&theme=dark&show&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaandre&layout=compact&langs_count=16&theme=dark&show"/>
-</div>
-    
-
+<hr />    
 
 ## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
@@ -53,4 +45,8 @@
     </a>
 </p>
 
-![Abhinandan Trilokia](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+<div>
+  <a href="https://github.com/vianaandre" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vianaandre&show_icons=true&theme=dark&show&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vianaandre&layout=compact&langs_count=16&theme=dark&show">
+</div>
