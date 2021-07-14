@@ -6,7 +6,7 @@
 ## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
-- 📚 Estudando ReactJS
+- 📚 Estudando ReactJS, NextJS e Typescript
 
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS 
 
