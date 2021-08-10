@@ -8,7 +8,7 @@
 
 - 📚 Estudando ReactJS, NextJS e Typescript
 
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS 
+- 💬 Pergunte-me sobre JavaScript, HTML, CSS, React, Next e Typescript 
 
 - 📫 Como **entrar** em contato comigo **andredapperviana@gmail.com**
 
