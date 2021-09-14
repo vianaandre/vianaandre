@@ -6,7 +6,7 @@
 ## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
-- 📚 Estudando NodeJs, Mongodb e Mysql
+- 📚 Estudando React Native
 
 - 🖥 <a href="https://andreviana.vercel.app/portfolio">Meu Portfólo</a>
 
