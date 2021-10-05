@@ -6,8 +6,7 @@
 ## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
-- 📚 Estudando React Native
-
+- 📚 Estudando NodeJs
 - 🖥 <a href="https://andreviana.vercel.app/portfolio">Meu Portfólo</a>
 
 - ✏ <a href="https://andreviana.vercel.app/blog">Meu Blog</a>
