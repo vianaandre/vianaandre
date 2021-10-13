@@ -6,7 +6,7 @@
 ## 👦🏻  Sobre...
 - 🎓 Cursando engenharia de software  
 
-- 📚 Estudando NodeJs
+- 📚 Estudando NodeJs pela trilha do Ignite da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
 - 🖥 <a href="https://andreviana.vercel.app/portfolio">Meu Portfólo</a>
 
 - ✏ <a href="https://andreviana.vercel.app/blog">Meu Blog</a>
@@ -15,9 +15,7 @@
 
 - 📫 Como **entrar** em contato comigo **andredapperviana@gmail.com**
 
-- 🛠 A procura da primeira oportunidade 
-
-- 🎧 <a href="https://open.spotify.com/playlist/6iRylA8BkuzqsBRrDApGjO?si=1636202191604245">Playlist do code master</a>
+- 🎧 <a href="https://open.spotify.com/playlist/1gZ1IgrUKWlL1F6Yw0C8gx?si=eb52bed9249e4d2f">Playlist do code master</a>
 
 <hr />
 
