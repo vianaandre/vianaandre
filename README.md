@@ -4,7 +4,7 @@
 <hr />    
 
 ## 👦🏻  Sobre...
-- 🎓 Cursando engenharia de software  
+- 🎓 Cursando Engenharia de Software  
 
 - 📚 Estudando NodeJs pela trilha do Ignite da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
 - 🖥 <a href="https://andreviana.vercel.app/portfolio">Meu Portfólo</a>
