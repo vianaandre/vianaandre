@@ -11,7 +11,7 @@
 
 - ✏ <a href="https://andreviana.vercel.app/blog">Meu Blog</a>
 
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS, React, Next e Typescript 
+- 💬 Pergunte-me sobre JavaScript, HTML, CSS, ReactJs, NextJs, Typescript, React Native e NodeJs
 
 - 📫 Como **entrar** em contato comigo **andredapperviana@gmail.com**
 
