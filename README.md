@@ -6,10 +6,7 @@
 ## 👦🏻  Sobre...
 - 🎓 Cursando Engenharia de Software  
 
-- 📚 Estudando NodeJs pela trilha do Ignite da <a href="https://www.rocketseat.com.br/">Rocketseat</a>
-- 🖥 <a href="https://andreviana.vercel.app/portfolio">Meu Portfólo</a>
-
-- ✏ <a href="https://andreviana.vercel.app/blog">Meu Blog</a>
+- 📚 Estudando AWS Lambda, Serverless e NodeJs
 
 - 💬 Pergunte-me sobre JavaScript, HTML, CSS, ReactJs, NextJs, Typescript, React Native e NodeJs
 
