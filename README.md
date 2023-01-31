@@ -8,7 +8,7 @@
 
 - 📚 Estudando AWS Lambda, Serverless e NodeJs
 
-- 💬 Pergunte-me sobre JavaScript, HTML, CSS, ReactJs, NextJs, Typescript, React Native e NodeJs
+- 💬 Pergunte-me sobre JavaScript, HTML, CSS, ReactJs, NextJs, Typescript, React Native, NodeJs e AWS
 
 - 📫 Como **entrar** em contato comigo **andredapperviana@gmail.com**
 
@@ -24,6 +24,8 @@
 <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <hr/>
@@ -32,12 +34,6 @@
 <p>
     <a href="https://www.linkedin.com/in/andr%C3%A9-viana-133353190/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/andre_gust_viana/" target="blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://twitter.com/andregustviana" target="blank">
-        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </p>
 
