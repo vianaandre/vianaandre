@@ -1,5 +1,5 @@
 <h1>Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="40"/></h1>
-<h3>Em constante Evolução 🍎 </h3>
+<h3>em constante evolução... 🍎 </h3>
 
 <hr />    
 
