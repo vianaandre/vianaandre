@@ -10,6 +10,6 @@
 
 ### Outra informações 🌎
 
-🚀 [Portfólio](https://andre-viana.vercel.app/) <br>
+🚀 [André Viana](https://andre-viana.vercel.app/) <br>
 📩 [andredapperviana@gmail.com](mailto:andredapperviana@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/zenorocha) <br>
