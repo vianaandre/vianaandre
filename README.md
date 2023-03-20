@@ -3,7 +3,7 @@
 🤓 Full Stack Developer <br>
 📚 Estudante de Engenharia de Software
 
-### O que estou trabalhando atualmente 👨‍💻
+### No que estou trabalhando atualmente 👨‍💻
 
 💼 Full Stack Developer at [Medcloud](https://medcloud.link/) <br>
 ⚒️ Freelancer front-end developer <br>
