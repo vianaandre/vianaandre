@@ -1,12 +1,12 @@
 ### Olá, eu sou André 👋
 
-🤓 Full Stack Developer <br>
+🤓 Full-Stack Developer <br>
 📚 Estudante de Engenharia de Software
 
 ### No que estou trabalhando atualmente 👨‍💻
 
-💼 Full Stack Developer at [Medcloud](https://medcloud.link/) <br>
-⚒️ Freelancer front-end developer <br>
+💼 Full-Stack Developer at [Medcloud](https://medcloud.link/) <br>
+⚒️ Freelancer Front-end Developer <br>
 
 ### Outra informações 🌎
 
