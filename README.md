@@ -1,6 +1,6 @@
 ### Olá, eu sou André 👋
 
-🤓 Front-end Developer <br>
+🤓 Full-Stack Developer <br>
 📚 Estudante de Engenharia de Software
 
 ### No que estou trabalhando atualmente 👨‍💻
