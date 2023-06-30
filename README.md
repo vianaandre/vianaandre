@@ -1,7 +1,7 @@
 ### Olá, eu sou André 👋
 
 🤓 Full-Stack Developer <br>
-📚 Estudante de Engenharia de Software
+📚 Estudando Desenvolvimento Mobile
 
 ### No que estou trabalhando atualmente 👨‍💻
 
