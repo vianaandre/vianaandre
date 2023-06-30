@@ -5,7 +5,7 @@
 
 ### No que estou trabalhando atualmente 👨‍💻
 
-💼 Front-end Developer at [Private Code](https://www.privatecode.com.br/) <br>
+💼 Full-Stack Developer at [Private Code](https://www.privatecode.com.br/) <br>
 ⚒️ Freelancer Front-end Developer <br>
 
 ### Outra informações 🌎
