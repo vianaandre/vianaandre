@@ -5,7 +5,7 @@
 
 ### No que estou trabalhando atualmente 👨‍💻
 
-💼 Full-Stack Developer at [Private Code](https://www.privatecode.com.br/) <br>
+💼 Front-End/Mobile Developer at [Pagou.ai](https://pagou.ai/) <br>
 ⚒️ Freelancer Front-end Developer <br>
 
 ### Outra informações 🌎
