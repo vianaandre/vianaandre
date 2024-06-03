@@ -3,7 +3,7 @@
 🤓 Full-Stack Developer <br>
 📚 Estudando Desenvolvimento Mobile
 
-### No que estou trabalhando atualmente 👨‍💻
+### Estou trabalhando atualmente 👨‍💻
 
 💼 Full-Stack Developer at [Pagou.ai](https://pagou.ai/) <br>
 ⚒️ Freelancer Front-end Developer <br>
