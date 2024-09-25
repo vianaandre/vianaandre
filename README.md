@@ -6,7 +6,7 @@
 ### Estou trabalhando atualmente 👨‍💻
 
 💼 Full-Stack Developer at [Pagou.ai](https://pagou.ai/) <br>
-⚒️ Freelancer Front-end Developer <br>
+⚒️ Freelancer Full-Stack Developer <br>
 
 ### Outra informações 🌎
 
