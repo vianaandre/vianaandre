@@ -1,7 +1,6 @@
 ### Olá, eu sou André 👋
 
 🤓 Full-Stack Developer <br>
-📚 Estudando Desenvolvimento Mobile
 
 ### Estou trabalhando atualmente 👨‍💻
 
@@ -10,6 +9,6 @@
 
 ### Outra informações 🌎
 
-🚀 [André Viana](https://andreviana.tech) <br>
+🚀 [André Viana](https://andreviana.com) <br>
 📩 [andredapperviana@gmail.com](mailto:andredapperviana@gmail.com) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/vianagustavoandre/) <br>
